@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "ai-resume-screener"
+version = "1.0.0"
+description = "AI-powered resume screening and candidate ranking using NLP, TF-IDF and Cosine Similarity"
+authors = ["Azfar Mohsin"]
+readme = "README.md"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
