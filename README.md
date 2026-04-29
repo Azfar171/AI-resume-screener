@@ -26,7 +26,6 @@ An end-to-end **AI-powered Resume Screening** web app built with **Streamlit**, 
 
 ```bash
 # 1. Clone / copy the project
-cd "Resume cleaning"
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -82,5 +81,4 @@ uvicorn main:app --reload
 
 ---
 
-## 📄 License
-MIT
+
